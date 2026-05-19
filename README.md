@@ -66,12 +66,3 @@ Projenin modern arayüzüne ve tasarım detaylarına göz atın:
 *   **Hafif ve Performanslı:** Donma veya kasma yapmadan minimum RAM kullanımı ile çalışır.
 
 ---
-
-## 🛠️ Kurulum
-
-Projeyi yerel bilgisayarınızda çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
-
-### 1. Depoyu Klonlayın
-```bash
-git clone [https://github.com/kullanici_adi/proje_adi.git](https://github.com/kullanici_adi/proje_adi.git)
-cd proje_adi
