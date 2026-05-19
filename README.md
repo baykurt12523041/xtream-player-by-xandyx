@@ -29,21 +29,21 @@ Projenin modern arayüzüne ve tasarım detaylarına göz atın:
   <tr>
     <td width="50%">
       <p align="center"><b>🖥️ Ana Panel / Giriş</b></p>
-      <img src="1.jpg" alt="Ekran Görüntüsü 1" width="100%"/>
+      <img src="1.png" alt="Ekran Görüntüsü 1" width="100%"/>
     </td>
     <td width="50%">
       <p align="center"><b>📺 Canlı Yayın İzleme</b></p>
-      <img src="2.jpg" alt="Ekran Görüntüsü 2" width="100%"/>
+      <img src="2.png" alt="Ekran Görüntüsü 2" width="100%"/>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <p align="center"><b>🎬 Sinematik Film Modu</b></p>
-      <img src="3.jpg" alt="Ekran Görüntüsü 3" width="100%"/>
+      <img src="3.png" alt="Ekran Görüntüsü 3" width="100%"/>
     </td>
     <td width="50%">
       <p align="center"><b>🍿 Dizi & Sezon Seçimi</b></p>
-      <img src="4.jpg" alt="Ekran Görüntüsü 4" width="100%"/>
+      <img src="4.png" alt="Ekran Görüntüsü 4" width="100%"/>
     </td>
   </tr>
 </table>
@@ -52,7 +52,7 @@ Projenin modern arayüzüne ve tasarım detaylarına göz atın:
 
 <p align="center">
   <b>⚙️ Gelişmiş Ayarlar Menüsü</b><br>
-  <img src="5.jpg" alt="Ekran Görüntüsü 5" width="70%"/>
+  <img src="5.png" alt="Ekran Görüntüsü 5" width="70%"/>
 </p>
 
 ---
