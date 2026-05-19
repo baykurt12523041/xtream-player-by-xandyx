@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Logo -->
-<img src="görsel.jpg" alt="Xtream Player Logo" width="120" height="120" style="border-radius: 20px;"/>
+<img src="görsel.png" alt="Xtream Player Logo" width="120" height="120" style="border-radius: 20px;"/>
 
 # Xtream Player
 
@@ -15,7 +15,7 @@
 
 **Xtream Player**, alışılagelmiş demode IPTV arayüzlerini geride bırakan, kullanıcı deneyimi odaklı, hızlı ve modern bir medya oynatıcıdır. Güçlü altyapısı ve sinematik tasarımıyla IPTV izleme keyfini bir üst seviyeye taşır.
 
-[Özellikler](#-özellikler) • [Ekran Görüntüleri](#-ekran-görüntüleri) • [Kurulum](#%EF%B8%8F-kurulum) • [Kullanım](#-kullanım)
+
 
 </div>
 
@@ -28,21 +28,21 @@ Projenin modern arayüzüne ve tasarım detaylarına göz atın:
 <table width="100%">
   <tr>
     <td width="50%">
-      <p align="center"><b>🖥️ Ana Panel / Giriş</b></p>
+      <p align="center"></p>
       <img src="1.png" alt="Ekran Görüntüsü 1" width="100%"/>
     </td>
     <td width="50%">
-      <p align="center"><b>📺 Canlı Yayın İzleme</b></p>
+      <p align="center"></p>
       <img src="2.png" alt="Ekran Görüntüsü 2" width="100%"/>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <p align="center"><b>🎬 Sinematik Film Modu</b></p>
+      <p align="center"></p>
       <img src="3.png" alt="Ekran Görüntüsü 3" width="100%"/>
     </td>
     <td width="50%">
-      <p align="center"><b>🍿 Dizi & Sezon Seçimi</b></p>
+      <p align="center"></p>
       <img src="4.png" alt="Ekran Görüntüsü 4" width="100%"/>
     </td>
   </tr>
@@ -51,7 +51,7 @@ Projenin modern arayüzüne ve tasarım detaylarına göz atın:
 <br>
 
 <p align="center">
-  <b>⚙️ Gelişmiş Ayarlar Menüsü</b><br>
+  <br>
   <img src="5.png" alt="Ekran Görüntüsü 5" width="70%"/>
 </p>
 
